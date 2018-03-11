@@ -4,7 +4,7 @@
  Use @angular/cli package in conjunction with the .NET tools for creating a new MVC project
 
 ## A. Preparing to Create a Project 
-To create a project that combines Angular and ASP.NET Core MVC, I start with @angular/cli and access he underlying webpack configuration, which can then be used to integrate the Angular tools and libraries into the ASP.NET Core project.
+To create a project that combines Angular and ASP.NET Core MVC, start with @angular/cli and access the underlying webpack configuration, which can then be used to integrate the Angular tools and libraries into the ASP.NET Core project.
 To start this process, open a new command prompt and run the command:
 ```console
  npm install --global @angular/cli 
@@ -58,7 +58,7 @@ The rest of the setup is performed inside the project folder, so run the command
  4. Adding NuGet Packages in the SportsStore.csproj File in the SportsStore Folder
 
     ```csharp
-    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools"  Version="2.0.0" /> ''
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools"  Version="2.0.0" /> 
     <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet"  Version="2.0.1" />
     ```
 5. To Download new packages with a command prompt, run the command `` dotnet restore `` 
@@ -163,6 +163,6 @@ The script elements in this view include bundles of JavaScript files that contai
 
 If you are using Visual Studio Code, then use a command window to run the command `` dotnet run `` in the SportsStore folder, which will build the project and start the ASP.NET Core HTTP server.  
 
---
+## H. Summary
 
 The Angular development tools and ASP.NET Core are now working together. Edit the app.component.ts file in the SportsStore/ClientApp/app folder and  make the change highlighted in Listing 3-22. (You will have to expand the app.component.html file to see the app.component.ts file in the Solution Explorer if you are using Visual Studio, which nests related files together.)
