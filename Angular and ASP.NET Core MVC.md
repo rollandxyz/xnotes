@@ -125,9 +125,14 @@ Now that the project foundation is in place, it is time to configure the differe
 ## D. Enabling Logging Messages 
 
 Enabling Logging in the appsettings.json File in the SportsStore Folder
-    ```csharp
-    "Microsoft.EntityFrameworkCore": "Information",      "Microsoft.AspNetCore.NodeServices": "Information", 
-    ```
+
+ ```json
+    "LogLevel": {
+        "Microsoft.EntityFrameworkCore": "Information",
+        "Microsoft.AspNetCore.NodeServices": "Information",
+        "Default": "Warning"
+    }
+  ```
 
 ## E. Updating the Bootstrap Package 
  If use the Bootstrap CSS package to style the HTML elements displayed by the browser.
