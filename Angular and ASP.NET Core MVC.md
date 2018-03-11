@@ -163,6 +163,6 @@ The script elements in this view include bundles of JavaScript files that contai
 
 If you are using Visual Studio Code, then use a command window to run the command `` dotnet run `` in the SportsStore folder, which will build the project and start the ASP.NET Core HTTP server.  
 
-## H. Summary
+## Summary
 
 The Angular development tools and ASP.NET Core are now working together. Edit the app.component.ts file in the SportsStore/ClientApp/app folder and  make the change highlighted in Listing 3-22. (You will have to expand the app.component.html file to see the app.component.ts file in the Solution Explorer if you are using Visual Studio, which nests related files together.)
