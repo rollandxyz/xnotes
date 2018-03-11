@@ -43,5 +43,7 @@ git fetch <remote>
 9. fetches any new work that has been pushed to that server since you cloned (or last fetched from)
 ``
 git fetch origin
-`` ````
+`` 
 
+10. merging an upstream
+https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/
