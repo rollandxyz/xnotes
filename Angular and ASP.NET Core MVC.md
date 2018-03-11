@@ -7,7 +7,7 @@
 To create a project that combines Angular and ASP.NET Core MVC, I start with @angular/cli and access he underlying webpack configuration, which can then be used to integrate the Angular tools and libraries into the ASP.NET Core project.
 To start this process, open a new command prompt and run the command:
 ```console
- npm install --global @angular/cli@1.0.2 
+ npm install --global @angular/cli 
  ```
 
 ## B. Creating the Project
@@ -27,7 +27,7 @@ The rest of the setup is performed inside the project folder, so run the command
 
 3. Getting the Angular tools to work with the .NET tools requires additional NPM packages. Run the command to install these packages 
     ```console
-    npm install --save-dev webpack@2.3.2 aspnet-prerendering@2.0.3 aspnet-webpack@1.0.28 webpack-hot-middleware@2.17.1 
+    npm install --save-dev webpack@4.1.1 aspnet-prerendering@3.0.1 aspnet-webpack@2.0.3 webpack-hot-middleware@2.21.2 
     ```
  
 
@@ -45,21 +45,21 @@ The rest of the setup is performed inside the project folder, so run the command
 
 2. This NuGet package is the .NET counterpart to the NPM packages and is used to integrate the Angular tools into Visual Studio. run command to adding a NuGet Package to the Project 
     ```console
-    dotnet add package Microsoft.AspNetCore.SpaServices --version 1.1.0
+    dotnet add package Microsoft.AspNetCore.SpaServices --version 2.0.2
     ```
 
 3. If the application data will be stored using Microsoft SQL Server and accessed using Entity Framework Core. Run the commands in the SportsStore folder to add the NuGet packages required to add these features to the application
     ```console
-    dotnet add package Microsoft.EntityFrameworkCore --version 1.1.1 
-    dotnet add package Microsoft.EntityFrameworkCore.Design --version 1.1.1 
-    dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 1.1.1
+    dotnet add package Microsoft.EntityFrameworkCore --version 2.0.1 
+    dotnet add package Microsoft.EntityFrameworkCore.Design --version 2.0.1 
+    dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 2.0.1
     ``` 
 
  4. Adding NuGet Packages in the SportsStore.csproj File in the SportsStore Folder
 
     ```csharp
-    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools"  Version="1.0.0" /> ''
-    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet"  Version="1.0.0" />
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools"  Version="2.0.0" /> ''
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet"  Version="2.0.1" />
     ```
 5. To Download new packages with a command prompt, run the command `` dotnet restore `` 
 
