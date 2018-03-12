@@ -1,4 +1,4 @@
-## Add Bootstrap to an Angular CLI project
+# Add Bootstrap to an Angular CLI project
 
 1. Creating an Angular project with Angular CLI
 
@@ -16,9 +16,8 @@ or 4.0 release
 npm install bootstrap@next --save
 ```
 
-3. Importing the CSS
+3. Importing the CSS, either
 ```js
-Configure .angular-cli.json:
 "styles": [
   "../node_modules/bootstrap/dist/css/bootstrap.min.css",
   "styles.scss"
