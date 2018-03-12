@@ -1,4 +1,4 @@
- 4.0## Add Bootstrap to an Angular CLI project
+## Add Bootstrap to an Angular CLI project
 
 1. Creating an Angular project with Angular CLI
 
