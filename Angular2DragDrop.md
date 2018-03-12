@@ -1,4 +1,5 @@
 
+https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API
 https://www.html5rocks.com/en/tutorials/dnd/basics/
 
 https://www.primefaces.org/primeng/#/
