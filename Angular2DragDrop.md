@@ -1,4 +1,6 @@
 
+https://www.html5rocks.com/en/tutorials/dnd/basics/
+
 https://www.primefaces.org/primeng/#/
 
 https://valor-software.com/ng2-dragula/index.html
