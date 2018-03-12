@@ -1,4 +1,4 @@
-## Add Bootstrap to an Angular CLI project
+ 4.0## Add Bootstrap to an Angular CLI project
 
 1. Creating an Angular project with Angular CLI
 
@@ -11,7 +11,7 @@ ng new angular-bootstrap-example
 ```console
 npm install bootstrap --save
 ```
-or
+or 4.0 release
 ```console
 npm install bootstrap@next --save
 ```
