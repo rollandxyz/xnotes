@@ -35,42 +35,42 @@ li {
   }
 
   function dragStarted(evt){
-  //start drag
-  source=evt.target;
-  //set data
-  evt.dataTransfer.setData("text/plain", evt.target.innerHTML);
-  //specify allowed transfer
-  evt.dataTransfer.effectAllowed = "move";
+    //start drag
+    source=evt.target;
+    //set data
+    evt.dataTransfer.setData("text/plain", evt.target.innerHTML);
+    //specify allowed transfer
+    evt.dataTransfer.effectAllowed = "move";
   }
 
   function draggingOver(evt){
-  //drag over
-  evt.preventDefault();
-  //specify operation
-  evt.dataTransfer.dropEffect = "move";
+    //drag over
+    evt.preventDefault();
+    //specify operation
+    evt.dataTransfer.dropEffect = "move";
   }
   function dropped(evt){
-  //drop
-  evt.preventDefault();
-  evt.stopPropagation();
-  //update text in dragged item
-  source.innerHTML = evt.target.innerHTML;
-  //update text in drop target
-  evt.target.innerHTML = evt.dataTransfer.getData("text/plain");
+    //drop
+    evt.preventDefault();
+    evt.stopPropagation();
+    //update text in dragged item
+    source.innerHTML = evt.target.innerHTML;
+    //update text in drop target
+    evt.target.innerHTML = evt.dataTransfer.getData("text/plain");
   }
 </script>
 
-
 </head>
+  
 <body>
- <p>
-Sort these into your order of preference:
-</p>
-<ul>
-<li draggable="true" ondragstart="dragStarted(event)" ondragover="draggingOver(event)" ondrop="dropped(event)">Apples</li>
-<li draggable="true" ondragstart="dragStarted(event)" ondragover="draggingOver(event)" ondrop="dropped(event)">Oranges</li>
-<li draggable="true" ondragstart="dragStarted(event)" ondragover="draggingOver(event)" ondrop="dropped(event)">Bananas</li>
-<li draggable="true" ondragstart="dragStarted(event)" ondragover="draggingOver(event)" ondrop="dropped(event)">Strawberries</li>
-</ul>
+  <p>
+  Sort these into your order of preference:
+  </p>
+  <ul>
+    <li draggable="true" ondragstart="dragStarted(event)" ondragover="draggingOver(event)" ondrop="dropped(event)">Apples</li>
+    <li draggable="true" ondragstart="dragStarted(event)" ondragover="draggingOver(event)" ondrop="dropped(event)">Oranges</li>
+    <li draggable="true" ondragstart="dragStarted(event)" ondragover="draggingOver(event)" ondrop="dropped(event)">Bananas</li>
+    <li draggable="true" ondragstart="dragStarted(event)" ondragover="draggingOver(event)" ondrop="dropped(event)">Strawberries</li>
+  </ul>
 </body>
 </html>
