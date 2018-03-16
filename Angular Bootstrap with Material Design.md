@@ -9,3 +9,5 @@ https://stackshare.io/stackups/bootstrap-vs-foundation-vs-material-design-for-an
 https://blog.realworldfullstack.io/real-world-angular-part-3-form-formation-f78d8462da70
 http://www.devglan.com/angular/angular-material-app
 https://loiane.com/2017/08/angular-reactive-forms-trigger-validation-on-submit/
+
+https://www.shareicon.net/superhero-comic-wolverine-shapes-people-superheroe-superheroes-emoticon-760516
