@@ -17,4 +17,9 @@ https://code-maze.com/aspnetcore-webapi-best-practices/
 https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
 https://blog.jeremylikness.com/5-rest-api-designs-in-dot-net-core-2-ad2f204c2d11
 https://medium.com/@schneidenbach/restful-api-best-practices-and-common-pitfalls-7a83ba3763b5
+
+
+
+https://stackoverflow.com/questions/19723641/find-intersecting-point-of-three-circles-programmatically
+http://www.ambrsoft.com/TrigoCalc/Circles3/Intersection.htm
     
