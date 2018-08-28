@@ -22,4 +22,7 @@ https://medium.com/@schneidenbach/restful-api-best-practices-and-common-pitfalls
 
 https://stackoverflow.com/questions/19723641/find-intersecting-point-of-three-circles-programmatically
 http://www.ambrsoft.com/TrigoCalc/Circles3/Intersection.htm
+https://sg.answers.yahoo.com/question/index?qid=20110127015240AA9RjyZ&guccounter=1
+http://paulbourke.net/geometry/circlesphere/tvoght.c
+http://paulbourke.net/geometry/circlesphere/
     
