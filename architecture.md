@@ -8,3 +8,25 @@ https://www.intertech.com/Downloads/eBook/ApplicationArchitectureGuide.pdf
 
 https://www.amazon.com/dp/1788620216/ref=sspa_dk_detail_0?psc=1
 
+https://code-maze.com/aspnetcore-webapi-best-practices/
+
+https://www.c-sharpcorner.com/article/web-api-design-principles-or-web-api-design-guidelines/
+
+https://blog.jeremylikness.com/5-rest-api-designs-in-dot-net-core-2-ad2f204c2d11
+
+https://github.com/nbarbettini/BeautifulRestApi
+
+https://stackify.com/asp-net-core-web-api-guide/
+
+https://www.infoq.com/articles/advanced-architecture-aspnet-core
+
+https://codingblast.com/asp-net-core-best-practices/
+
+https://www.codingdojo.com/blog/signalr/
+
+https://owlypixel.com/introduction-to-signalr-real-time-communication-library/
+
+https://docs.microsoft.com/en-us/aspnet/core/signalr/hubs?view=aspnetcore-2.1
+
+
+
