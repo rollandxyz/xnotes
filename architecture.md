@@ -46,5 +46,11 @@ https://kimsereyblog.blogspot.com/2018/07/signalr-with-asp-net-core.html
 
 https://demos.telerik.com/aspnet-core/grid/signalr
 
+https://stackify.com/asp-net-core-features/
+
+https://stackify.com/when-to-use-asynchronous-programming/
+
+
+
 
 
