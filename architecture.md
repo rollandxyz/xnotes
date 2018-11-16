@@ -28,5 +28,7 @@ https://owlypixel.com/introduction-to-signalr-real-time-communication-library/
 
 https://docs.microsoft.com/en-us/aspnet/core/signalr/hubs?view=aspnetcore-2.1
 
+https://www.c-sharpcorner.com/article/streaming-in-asp-net-core-signalr2/
+
 
 
