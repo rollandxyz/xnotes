@@ -36,7 +36,15 @@ https://blog.elmah.io/building-a-cloud-editor-with-signalr-and-asp-net-core-2-1/
 
 https://www.jerriepelser.com/blog/communicate-status-background-job-signalr/
 
+https://bytefish.de/blog/realtime_charts_signalr_chartjs/
 
+https://damienbod.com/2017/09/12/getting-started-with-signalr-using-asp-net-core-and-angular/
+
+https://github.com/damienbod/AspNetCoreAngularSignalR
+
+https://kimsereyblog.blogspot.com/2018/07/signalr-with-asp-net-core.html
+
+https://demos.telerik.com/aspnet-core/grid/signalr
 
 
 
