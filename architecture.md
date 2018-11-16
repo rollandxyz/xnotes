@@ -30,5 +30,13 @@ https://docs.microsoft.com/en-us/aspnet/core/signalr/hubs?view=aspnetcore-2.1
 
 https://www.c-sharpcorner.com/article/streaming-in-asp-net-core-signalr2/
 
+https://www.infoq.com/news/2018/06/aspnetcore21-released
+
+https://blog.elmah.io/building-a-cloud-editor-with-signalr-and-asp-net-core-2-1/
+
+https://www.jerriepelser.com/blog/communicate-status-background-job-signalr/
+
+
+
 
 
