@@ -3,7 +3,9 @@ My notes
 
 - http://docs.ceph.com/docs/mimic/radosgw/s3/csharp/
 - https://docs.aws.amazon.com/general/latest/gr/aws-access-keys-best-practices.html
-
+- https://developer.sportradar.com/docs/read/basketball/NBA_v5#nba-api-map
+- https://realtimeapi.io/hub/dotnet-c-realtime-resources/
+- https://www.nbastuffer.com/analytics101/playbyplay-data/
 
 
 - https://github.com/jasonaden/angular-cli-lib-example
@@ -14,6 +16,7 @@ My notes
 - https://coursetro.com/posts/code/132/Material-Design-Bootstrap-4-and-Angular-5-Tutorial---MdBootstrap
 - https://mdbootstrap.com/angular/components/#
 - https://ng-bootstrap.github.io/#/getting-started
+- 
 
 
 
