@@ -1,6 +1,10 @@
 # xnotes
 My notes
 
+http://docs.ceph.com/docs/mimic/radosgw/s3/csharp/
+
+
+
 https://github.com/jasonaden/angular-cli-lib-example
 https://semver.org/
 https://gitversion.readthedocs.io/en/latest/more-info/version-increments/
