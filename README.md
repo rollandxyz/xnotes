@@ -6,6 +6,9 @@ My notes
 - https://developer.sportradar.com/docs/read/basketball/NBA_v5#nba-api-map
 - https://realtimeapi.io/hub/dotnet-c-realtime-resources/
 - https://www.nbastuffer.com/analytics101/playbyplay-data/
+- https://www.omnisci.com/blog/exploring-13-seasons-of-the-nba/
+- https://chsakell.com/2016/10/10/real-time-applications-using-asp-net-core-signalr-angular/
+- https://github.com/chsakell/aspnet-core-signalr-angular
 
 
 - https://github.com/jasonaden/angular-cli-lib-example
