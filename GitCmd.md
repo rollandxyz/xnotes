@@ -53,3 +53,10 @@ https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/
 [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 
+https://github.com/Reactive-Extensions/Tx/blob/master/Doc/CONTRIBUTING.md
+
+
+
+
+
+
