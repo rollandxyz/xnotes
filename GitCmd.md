@@ -56,7 +56,7 @@ https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/
 https://github.com/Reactive-Extensions/Tx/blob/master/Doc/CONTRIBUTING.md
 
 
-
+https://help.github.com/en/github/collaborating-with-issues-and-pull-requests
 
 
 
