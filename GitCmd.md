@@ -47,3 +47,9 @@ git fetch origin
 
 10. merging an upstream
 https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/
+
+
+
+[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+
+
