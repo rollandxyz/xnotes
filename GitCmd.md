@@ -59,4 +59,5 @@ https://github.com/Reactive-Extensions/Tx/blob/master/Doc/CONTRIBUTING.md
 https://help.github.com/en/github/collaborating-with-issues-and-pull-requests
 
 
-
+https://coderefinery.github.io/git-branch-design/01-rebase/
+https://coderefinery.github.io/git-intro/
